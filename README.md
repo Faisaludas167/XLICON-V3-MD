@@ -23,7 +23,7 @@
 ### ℹ️ **About XLICON-V3**
 XLICON-V3 is a Cool Multi-Device WhatsApp bot developed by [Salman Ahamed](https://github.com/salmanytofficial). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 
-<p align="center"><img src="https://profile-counter.glitch.me/{XLICON-V3}/count.svg" alt="SALMAN AHMAD :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{XLICON-V3}/count.svg" alt="Faisal udas:: Visitor's Count" /></p>
 
 ### 📊 **Bot Statistics**
 <p align="center">
@@ -54,7 +54,7 @@ Thanks to all contributors! 🚀
 
 ## 💲 ```Donate Me```
 
-- [`Buy ME A Coffee ☕ `](https://i.ibb.co/SBXWb1R/donate.jpg)
+- [`Buy ME A Coffee ☕ `](https://telegra.ph/file/4fcb83feea391a64635aa.jpg)
 
 <p align="left">
 Scan qr code from the above button, u can pay through Buy Me A Coffee...
